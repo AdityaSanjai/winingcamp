@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.App-header {
+  font-size: 24px;
+  color: #333;
+}
+
+.donate-section input {
+  padding: 8px;
+  margin-right: 10px;
+  border: 1px solid #ccc;
+}
+
+.donate-section button {
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+}
+
+.donations-history ul {
+  list-style-type: none;
+}
+
+.donations-history li {
+  margin: 5px 0;
+}
